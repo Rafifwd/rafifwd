@@ -34,7 +34,7 @@ Welcome to my corner of GitHub! I'm a Computer Science student at Universitas Pa
 
 - **AwasJentik** — AI-powered malaria early-warning surveillance with dual-model risk scoring and a real-time admin dashboard. `FastAPI` `Next.js` `Supabase` · [Live demo](https://malaria-watch.vercel.app/)
 - **NalarPath AI** — Career reasoning system with rule-based + ML scoring and SHAP-based explanations. `FastAPI` `Scikit-learn` `SHAP` · [Live demo](https://nalaraitest.vercel.app/)
-- **Unpad Goes to School Sukabumi** — Company profile and integrated ticketing platform for a school outreach program. `Laravel Blade` `Tailwind CSS` `Vite`
+- **Unpad Goes to School Sukabumi** — Company profile and integrated ticketing platform for a school outreach program. `Laravel Blade` `Tailwind CSS` `Vite` · [Live site](https://ugssukabumi.com)
 
 ## 📫 Connect
 
