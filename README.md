@@ -13,7 +13,8 @@ Welcome to my corner of GitHub! I'm a Computer Science student at Universitas Pa
 - 🌱 Building **explainable ML systems** and full-stack products with FastAPI, Next.js, Scikit-learn, and Supabase.
 - 🛠️ Crafting REST APIs, risk-scoring engines, and dashboards—from data pipeline to interface.
 - 💡 Exploring the intersection of **AI/ML and product engineering** through hands-on projects.
-- 🎯 Led Informatics Festival 2026 as Project Officer and open to freelance/AI collaborations.
+- 🎯 Led Informatics Festival 2026 as Project Officer.
+- 💼 Seeking an AI/ML or full-stack internship; freelance projects welcome.
 - 💬 Ask me about my projects, explainable AI, or building end-to-end products.
 
 ## 🧰 Tech Stack
