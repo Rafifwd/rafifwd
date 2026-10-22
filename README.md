@@ -25,12 +25,6 @@ Welcome to my corner of GitHub! I'm a Computer Science student at Universitas Pa
 
 <p align="center"><sub>Scikit-learn · SHAP · Pandas · NumPy · SQLModel · Vite · Axios</sub></p>
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rafifwd&theme=dark&hide_border=true&background=0D1117&ring=B8F36B&fire=B8F36B&currStreakLabel=B8F36B&sideLabels=ECEDEE&dates=9AA0A6&currStreakNum=ECEDEE&sideNums=ECEDEE" alt="rafifwd GitHub streak" />
-</div>
-
 ## 📌 Featured Projects
 
 - **AwasJentik** — AI-powered malaria early-warning surveillance with dual-model risk scoring and a real-time admin dashboard. `FastAPI` `Next.js` `Supabase` · [Live demo](https://malaria-watch.vercel.app/)
